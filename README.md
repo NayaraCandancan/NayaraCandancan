@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cypress and Postman**
 
-- 👨‍💻 All of my projects are available at [https://nayaracandancan.github.io/NayCandancan.github.io-main/](https://nayaracandancan.github.io/NayCandancan.github.io-main/)
-
 - 📫 How to reach me **nayara.candancan@gmail.com**
 
 - 📄 Know about my experiences [https://br.linkedin.com/in/nayara-candancan](https://br.linkedin.com/in/nayara-candancan)
