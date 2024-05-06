@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nayara.candancan@gmail.com**
 
-- 📄 Know about my experiences [https://br.linkedin.com/in/nayara-candancan](https://br.linkedin.com/in/nayara-candancan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
