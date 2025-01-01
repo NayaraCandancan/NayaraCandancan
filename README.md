@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nayara Candançan</h1>
 <h3 align="center">A passionate QA from Brasil</h3>
 
-//- 🔭 I’m currently working on **GFT Technologies**
-
 - 🌱 I’m currently learning **Cypress and Postman**
 
 - 📫 How to reach me **nayara.candancan@gmail.com**
